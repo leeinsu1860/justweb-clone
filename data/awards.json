@@ -1,0 +1,706 @@
+﻿[
+    {
+        "year":  "2024",
+        "eventName":  "2025 경기도 미래창업가 발굴프로그램",
+        "awardName":  "1위 / 대상",
+        "institution":  "경기도교육감",
+        "generation":  "24기",
+        "members":  [
+                        "명준현",
+                        "황태경",
+                        "배주원",
+                        "손하윤"
+                    ],
+        "description":  "경기도교육감 수여",
+        "cityCode":  "경기",
+        "coordinates":  {
+                            "x":  12,
+                            "y":  45
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "2025 비즈쿨 캠프 경진대회 IR 결선",
+        "awardName":  "1위 / 대상",
+        "institution":  "중소벤처기업부 장관",
+        "generation":  "24기, 23기",
+        "members":  [
+                        "명준현",
+                        "정하은"
+                    ],
+        "description":  "중소벤처기업부 장관 수여",
+        "cityCode":  "IR",
+        "coordinates":  {
+                            "x":  17,
+                            "y":  38
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "제 18회 전국 창업발명경진대회",
+        "awardName":  "1위 / 대상",
+        "institution":  "중소벤처기업부 장관",
+        "generation":  "24기",
+        "members":  [
+                        "명준현"
+                    ],
+        "description":  "중소벤처기업부 장관 수여",
+        "cityCode":  "창업",
+        "coordinates":  {
+                            "x":  22,
+                            "y":  31
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "제 18회 전국 창업발명경진대회",
+        "awardName":  "1위 / 대상",
+        "institution":  "환경부 장관",
+        "generation":  "24기",
+        "members":  [
+                        "명준현"
+                    ],
+        "description":  "환경부 장관 수여",
+        "cityCode":  "환경",
+        "coordinates":  {
+                            "x":  27,
+                            "y":  26
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "비즈쿨 창업동아리 연합 STARTUPTHON",
+        "awardName":  "1위 / 금상",
+        "institution":  "디미고",
+        "generation":  "24기",
+        "members":  [
+                        "박초연",
+                        "한준혁",
+                        "조경윤",
+                        "김도연"
+                    ],
+        "description":  "디미고 수여",
+        "cityCode":  "교내",
+        "coordinates":  {
+                            "x":  32,
+                            "y":  34
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "제 7회 대구 빅데이터 분석 경진대회",
+        "awardName":  "1위 / 최우수상",
+        "institution":  "대구미래교육연구원장",
+        "generation":  "23기",
+        "members":  [
+                        "박재현"
+                    ],
+        "description":  "대구미래교육연구원장 수여",
+        "cityCode":  "대구",
+        "coordinates":  {
+                            "x":  37,
+                            "y":  42
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "제 4회 청소년 메이커 경진대회",
+        "awardName":  "최우수상",
+        "institution":  "서울시의회의장",
+        "generation":  "24기",
+        "members":  [
+                        "명준현"
+                    ],
+        "description":  "서울시의회의장 수여",
+        "cityCode":  "서울",
+        "coordinates":  {
+                            "x":  42,
+                            "y":  30
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "제 18회 전국 창업발명경진대회",
+        "awardName":  "최우수상",
+        "institution":  "특허청장",
+        "generation":  "24기",
+        "members":  [
+                        "명준현"
+                    ],
+        "description":  "특허청장 수여",
+        "cityCode":  "특허",
+        "coordinates":  {
+                            "x":  47,
+                            "y":  24
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "제 11회 부산창업아이디어 경진대회",
+        "awardName":  "대학총장상",
+        "institution":  "동의대학교 총장",
+        "generation":  "24기",
+        "members":  [
+                        "명준현"
+                    ],
+        "description":  "동의대학교 총장 수여",
+        "cityCode":  "부산",
+        "coordinates":  {
+                            "x":  52,
+                            "y":  35
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "제 27회 전국학생통계활용대회",
+        "awardName":  "은상",
+        "institution":  "통계청장",
+        "generation":  "23기",
+        "members":  [
+                        "정하은",
+                        "이한영",
+                        "황혜린"
+                    ],
+        "description":  "통계청장 수여",
+        "cityCode":  "통계",
+        "coordinates":  {
+                            "x":  57,
+                            "y":  44
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "제 9회 벤처창업 아이템 경진대회",
+        "awardName":  "은상",
+        "institution":  "창업진흥원장",
+        "generation":  "24기",
+        "members":  [
+                        "박초연",
+                        "한준혁",
+                        "이예진",
+                        "손하윤"
+                    ],
+        "description":  "창업진흥원장 수여",
+        "cityCode":  "벤처",
+        "coordinates":  {
+                            "x":  62,
+                            "y":  33
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "2025년 창업 인큐베이팅 경진대회",
+        "awardName":  "창의상",
+        "institution":  "창업진흥원장",
+        "generation":  "24기",
+        "members":  [
+                        "명준현",
+                        "박초연",
+                        "배주원"
+                    ],
+        "description":  "창업진흥원장 수여",
+        "cityCode":  "창의",
+        "coordinates":  {
+                            "x":  67,
+                            "y":  27
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "2025 경기도 미래창업가 발굴프로그램",
+        "awardName":  "우수상",
+        "institution":  "한국엔젤투자협회장",
+        "generation":  "24기",
+        "members":  [
+                        "박초연",
+                        "한준혁",
+                        "김도연",
+                        "조경윤"
+                    ],
+        "description":  "한국엔젤투자협회장 수여",
+        "cityCode":  "투자",
+        "coordinates":  {
+                            "x":  72,
+                            "y":  36
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "안산시 공공데이터 활용·분석 경진대회",
+        "awardName":  "우수상",
+        "institution":  "안산시",
+        "generation":  "23기",
+        "members":  [
+                        "박재현"
+                    ],
+        "description":  "안산시 수여",
+        "cityCode":  "안산",
+        "coordinates":  {
+                            "x":  77,
+                            "y":  46
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "2025 여름 ERICA 고교 딥테크 오디션",
+        "awardName":  "우수상",
+        "institution":  "ERICA 창업교육센터장",
+        "generation":  "24기",
+        "members":  [
+                        "박초연",
+                        "한준혁",
+                        "김도연",
+                        "이예진"
+                    ],
+        "description":  "ERICA 창업교육센터장 수여",
+        "cityCode":  "ERICA",
+        "coordinates":  {
+                            "x":  82,
+                            "y":  38
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "제 7회 공공데이터 분석활용 대회",
+        "awardName":  "우수상",
+        "institution":  "경기도교육감",
+        "generation":  "23기",
+        "members":  [
+                        "정하은",
+                        "이한영",
+                        "황혜린"
+                    ],
+        "description":  "경기도교육감 수여",
+        "cityCode":  "데이터",
+        "coordinates":  {
+                            "x":  87,
+                            "y":  30
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "2025 외교 공공데이터 활용 경진대회",
+        "awardName":  "장려상",
+        "institution":  "한국국제협력단 이사장",
+        "generation":  "24기",
+        "members":  [
+                        "박초연",
+                        "한준혁",
+                        "손하윤",
+                        "이예진"
+                    ],
+        "description":  "한국국제협력단 이사장 수여",
+        "cityCode":  "외교",
+        "coordinates":  {
+                            "x":  90,
+                            "y":  41
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "제 9회 벤처창업 아이템 경진대회",
+        "awardName":  "동상",
+        "institution":  "한국반도체산업협회장",
+        "generation":  "24기",
+        "members":  [
+                        "조경윤",
+                        "김도연"
+                    ],
+        "description":  "한국반도체산업협회장 수여",
+        "cityCode":  "반도체",
+        "coordinates":  {
+                            "x":  92,
+                            "y":  34
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2024",
+        "eventName":  "2025 학생창업유망팀 300",
+        "awardName":  "최종선정",
+        "institution":  "교육부 장관",
+        "generation":  "24기",
+        "members":  [
+                        "명준현",
+                        "김도연",
+                        "배주원",
+                        "황태경"
+                    ],
+        "description":  "교육부 장관 수여",
+        "cityCode":  "300",
+        "coordinates":  {
+                            "x":  88,
+                            "y":  34
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "2025 경기도 미래창업가 발굴프로그램",
+        "awardName":  "1위 / 대상",
+        "institution":  "경기도교육감",
+        "generation":  "24기",
+        "members":  [
+                        "명준현",
+                        "황태경",
+                        "배주원",
+                        "손하윤"
+                    ],
+        "description":  "경기도교육감 수여",
+        "cityCode":  "경기",
+        "coordinates":  {
+                            "x":  12,
+                            "y":  45
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "2025 비즈쿨 캠프 경진대회 IR 결선",
+        "awardName":  "1위 / 대상",
+        "institution":  "중소벤처기업부 장관",
+        "generation":  "24기, 23기",
+        "members":  [
+                        "명준현",
+                        "정하은"
+                    ],
+        "description":  "중소벤처기업부 장관 수여",
+        "cityCode":  "IR",
+        "coordinates":  {
+                            "x":  17,
+                            "y":  38
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "제 18회 전국 창업발명경진대회",
+        "awardName":  "1위 / 대상",
+        "institution":  "중소벤처기업부 장관",
+        "generation":  "24기",
+        "members":  [
+                        "명준현"
+                    ],
+        "description":  "중소벤처기업부 장관 수여",
+        "cityCode":  "창업",
+        "coordinates":  {
+                            "x":  22,
+                            "y":  31
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "제 18회 전국 창업발명경진대회",
+        "awardName":  "1위 / 대상",
+        "institution":  "환경부 장관",
+        "generation":  "24기",
+        "members":  [
+                        "명준현"
+                    ],
+        "description":  "환경부 장관 수여",
+        "cityCode":  "환경",
+        "coordinates":  {
+                            "x":  27,
+                            "y":  26
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "비즈쿨 창업동아리 연합 STARTUPTHON",
+        "awardName":  "1위 / 금상",
+        "institution":  "디미고",
+        "generation":  "24기",
+        "members":  [
+                        "박초연",
+                        "한준혁",
+                        "조경윤",
+                        "김도연"
+                    ],
+        "description":  "디미고 수여",
+        "cityCode":  "교내",
+        "coordinates":  {
+                            "x":  32,
+                            "y":  34
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "제 7회 대구 빅데이터 분석 경진대회",
+        "awardName":  "1위 / 최우수상",
+        "institution":  "대구미래교육연구원장",
+        "generation":  "23기",
+        "members":  [
+                        "박재현"
+                    ],
+        "description":  "대구미래교육연구원장 수여",
+        "cityCode":  "대구",
+        "coordinates":  {
+                            "x":  37,
+                            "y":  42
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "제 4회 청소년 메이커 경진대회",
+        "awardName":  "최우수상",
+        "institution":  "서울시의회의장",
+        "generation":  "24기",
+        "members":  [
+                        "명준현"
+                    ],
+        "description":  "서울시의회의장 수여",
+        "cityCode":  "서울",
+        "coordinates":  {
+                            "x":  42,
+                            "y":  30
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "제 18회 전국 창업발명경진대회",
+        "awardName":  "최우수상",
+        "institution":  "특허청장",
+        "generation":  "24기",
+        "members":  [
+                        "명준현"
+                    ],
+        "description":  "특허청장 수여",
+        "cityCode":  "특허",
+        "coordinates":  {
+                            "x":  47,
+                            "y":  24
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "제 11회 부산창업아이디어 경진대회",
+        "awardName":  "대학총장상",
+        "institution":  "동의대학교 총장",
+        "generation":  "24기",
+        "members":  [
+                        "명준현"
+                    ],
+        "description":  "동의대학교 총장 수여",
+        "cityCode":  "부산",
+        "coordinates":  {
+                            "x":  52,
+                            "y":  35
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "제 27회 전국학생통계활용대회",
+        "awardName":  "은상",
+        "institution":  "통계청장",
+        "generation":  "23기",
+        "members":  [
+                        "정하은",
+                        "이한영",
+                        "황혜린"
+                    ],
+        "description":  "통계청장 수여",
+        "cityCode":  "통계",
+        "coordinates":  {
+                            "x":  57,
+                            "y":  44
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "제 9회 벤처창업 아이템 경진대회",
+        "awardName":  "은상",
+        "institution":  "창업진흥원장",
+        "generation":  "24기",
+        "members":  [
+                        "박초연",
+                        "한준혁",
+                        "이예진",
+                        "손하윤"
+                    ],
+        "description":  "창업진흥원장 수여",
+        "cityCode":  "벤처",
+        "coordinates":  {
+                            "x":  62,
+                            "y":  33
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "2025년 창업 인큐베이팅 경진대회",
+        "awardName":  "창의상",
+        "institution":  "창업진흥원장",
+        "generation":  "24기",
+        "members":  [
+                        "명준현",
+                        "박초연",
+                        "배주원"
+                    ],
+        "description":  "창업진흥원장 수여",
+        "cityCode":  "창의",
+        "coordinates":  {
+                            "x":  67,
+                            "y":  27
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "2025 경기도 미래창업가 발굴프로그램",
+        "awardName":  "우수상",
+        "institution":  "한국엔젤투자협회장",
+        "generation":  "24기",
+        "members":  [
+                        "박초연",
+                        "한준혁",
+                        "김도연",
+                        "조경윤"
+                    ],
+        "description":  "한국엔젤투자협회장 수여",
+        "cityCode":  "투자",
+        "coordinates":  {
+                            "x":  72,
+                            "y":  36
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "안산시 공공데이터 활용·분석 경진대회",
+        "awardName":  "우수상",
+        "institution":  "안산시",
+        "generation":  "23기",
+        "members":  [
+                        "박재현"
+                    ],
+        "description":  "안산시 수여",
+        "cityCode":  "안산",
+        "coordinates":  {
+                            "x":  77,
+                            "y":  46
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "2025 여름 ERICA 고교 딥테크 오디션",
+        "awardName":  "우수상",
+        "institution":  "ERICA 창업교육센터장",
+        "generation":  "24기",
+        "members":  [
+                        "박초연",
+                        "한준혁",
+                        "김도연",
+                        "이예진"
+                    ],
+        "description":  "ERICA 창업교육센터장 수여",
+        "cityCode":  "ERICA",
+        "coordinates":  {
+                            "x":  82,
+                            "y":  38
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "제 7회 공공데이터 분석활용 대회",
+        "awardName":  "우수상",
+        "institution":  "경기도교육감",
+        "generation":  "23기",
+        "members":  [
+                        "정하은",
+                        "이한영",
+                        "황혜린"
+                    ],
+        "description":  "경기도교육감 수여",
+        "cityCode":  "데이터",
+        "coordinates":  {
+                            "x":  87,
+                            "y":  30
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "2025 외교 공공데이터 활용 경진대회",
+        "awardName":  "장려상",
+        "institution":  "한국국제협력단 이사장",
+        "generation":  "24기",
+        "members":  [
+                        "박초연",
+                        "한준혁",
+                        "손하윤",
+                        "이예진"
+                    ],
+        "description":  "한국국제협력단 이사장 수여",
+        "cityCode":  "외교",
+        "coordinates":  {
+                            "x":  90,
+                            "y":  41
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "제 9회 벤처창업 아이템 경진대회",
+        "awardName":  "동상",
+        "institution":  "한국반도체산업협회장",
+        "generation":  "24기",
+        "members":  [
+                        "조경윤",
+                        "김도연"
+                    ],
+        "description":  "한국반도체산업협회장 수여",
+        "cityCode":  "반도체",
+        "coordinates":  {
+                            "x":  92,
+                            "y":  34
+                        },
+        "externalLink":  ""
+    },
+    {
+        "year":  "2025",
+        "eventName":  "2025 학생창업유망팀 300",
+        "awardName":  "최종선정",
+        "institution":  "교육부 장관",
+        "generation":  "24기",
+        "members":  [
+                        "명준현",
+                        "김도연",
+                        "배주원",
+                        "황태경"
+                    ],
+        "description":  "교육부 장관 수여",
+        "cityCode":  "300",
+        "coordinates":  {
+                            "x":  88,
+                            "y":  34
+                        },
+        "externalLink":  ""
+    }
+]

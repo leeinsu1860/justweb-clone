@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="JUST 동아리의 수상 기록을 한눈에 확인하는 아카이브입니다." />
+    <meta name="theme-color" content="#050505" />
+    <title>JUST | 수상 아카이브</title>
+    <link rel="icon" href="./assets/just-logo.jpeg" />
+    <link rel="stylesheet" href="./styles.css?v=20260521-2" />
+  </head>
+  <body class="awards-page">
+    <header class="awards-header">
+      <a class="awards-brand" href="./index.html" aria-label="JUST home">
+        <img src="./assets/just-logo.jpeg" alt="JUST" />
+      </a>
+      <nav class="awards-nav" aria-label="수상 아카이브 메뉴">
+        <a href="./index.html#about">소개</a>
+        <a href="./index.html#projects">프로젝트</a>
+        <a href="./index.html#members">멤버</a>
+      </nav>
+    </header>
+
+    <main class="awards-shell">
+      <section class="awards-hero" aria-labelledby="awardsTitle">
+        <div>
+          <p class="section-kicker">AWARDS ARCHIVE</p>
+          <h1 id="awardsTitle">JUST 수상 기록</h1>
+          <p>
+            대회명, 수상명, 기관, 기수, 참여자를 빠르게 훑어볼 수 있도록 정리했습니다.
+          </p>
+        </div>
+        <div class="awards-summary" aria-label="수상 요약">
+          <article>
+            <strong>38</strong>
+            <span>총 수상</span>
+          </article>
+          <article>
+            <strong><span class="amount-main">4</span><span class="amount-comma">,</span><span class="amount-main">750</span></strong>
+            <span>누적 상금 만원</span>
+          </article>
+          <article>
+            <strong>2021-2025</strong>
+            <span>활동 기간</span>
+          </article>
+        </div>
+      </section>
+
+      <section class="awards-tools" aria-labelledby="filterTitle">
+        <div>
+          <p class="section-kicker">FILTER</p>
+          <h2 id="filterTitle">수상명으로 보기</h2>
+        </div>
+        <div class="award-filters" id="awardFilters"></div>
+      </section>
+
+      <section class="awards-results" id="certificateBoard" aria-label="수상 카드 목록">
+        <div class="certificate-grid" id="certificateGrid"></div>
+      </section>
+
+      <section class="awards-table-section" id="awardTable" aria-labelledby="tableTitle">
+        <div class="section-heading compact">
+          <p class="section-kicker">TABLE</p>
+          <h2 id="tableTitle">전체 목록</h2>
+        </div>
+        <div class="award-table-wrap">
+          <table class="award-table">
+            <thead>
+              <tr>
+                <th>연도</th>
+                <th>대회명</th>
+                <th>수상명</th>
+                <th>기관</th>
+                <th>기수</th>
+                <th>참여자</th>
+              </tr>
+            </thead>
+            <tbody id="awardTableBody"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <footer class="awards-footer">
+      <strong>JUST</strong>
+      <a href="./index.html">메인으로 돌아가기</a>
+    </footer>
+
+    <script src="./app.js?v=20260521-2"></script>
+  </body>
+</html>

@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <title>JUST | 항로를 놓쳤습니다</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <style>
+      body {
+        display: grid;
+        place-items: center;
+        min-height: 100vh;
+        padding: 24px;
+      }
+
+      .not-found {
+        width: min(720px, 100%);
+        border: 1px solid var(--line);
+        border-radius: var(--radius);
+        padding: clamp(28px, 7vw, 64px);
+        background: rgba(255, 255, 255, 0.045);
+        box-shadow: var(--shadow);
+      }
+
+      .not-found h1 {
+        margin-bottom: 14px;
+        color: var(--orange);
+        font-size: clamp(3rem, 12vw, 8rem);
+        line-height: 0.9;
+      }
+
+      .not-found p {
+        color: var(--paper-dim);
+        line-height: 1.8;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="not-found">
+      <p class="eyebrow">404 / 끊어진 필름</p>
+      <h1>장면을 찾지 못했습니다.</h1>
+      <p>이 컷은 사라졌습니다. JUST 홈으로 돌아가 다음 장면을 이어보세요.</p>
+      <a class="button primary" href="./index.html#home">JUST 홈으로 돌아가기</a>
+    </main>
+  </body>
+</html>
